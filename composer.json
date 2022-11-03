@@ -1,13 +1,13 @@
 {
-    "name": "emmanuelballery/eb-doctrinebundle",
+    "name": "adcog-cpi/doctrinebundle",
     "description": "EBDoctrineBundle",
-    "homepage": "https://github.com/emmanuelballery/EBDoctrineBundle.git",
+    "homepage": "https://github.com/adcog-cpi/doctrine-bundle.git",
     "type": "symfony-bundle",
     "license": "MIT",
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/emmanuelballery/EBDoctrineBundle.git"
+            "url": "https://github.com/adcog-cpi/doctrine-bundle.git"
         }
     ],
     "authors": [
