@@ -1,5 +1,5 @@
 {
-    "name": "adcog-cpi/doctrinebundle",
+    "name": "adcog-cpi/doctrine-bundle",
     "description": "EBDoctrineBundle",
     "homepage": "https://github.com/adcog-cpi/doctrine-bundle.git",
     "type": "symfony-bundle",
